@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kicsell | Garik
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Networking | Information Security
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me, Telegram: @KicSell
 - ⚡ Fun fact: No Facts
 
